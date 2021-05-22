@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/cuckoo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/jape-3.25b22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/jbossall-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/mgecom-model-3.25b22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/mge-modelcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/mge-modelcore-3.25b22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/mge-modelcore-3.30b440.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/sankhya-gwt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/SankhyaW-extensions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/sanws-3.25b22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/javax.servlet.jar/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIM/Desktop/Sankhya DESENV/3.25/jasperreports-4.0.1.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
